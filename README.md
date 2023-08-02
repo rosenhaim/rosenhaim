@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rosenhaim
-- 👀 I’m interested in Fullstack web developer
-- 🌱 I’m currently learning react , angular, spring
-- 💞️ I’m looking to collaborate on every project i can
+- 👀 I’m interested in backend JAVA and Android development
+- 🌱 I'm currently catching up with spring, learning Kotlin
+- 💞️ I’m looking to collaborate on every project I can
 - 📫 How to reach me https://www.linkedin.com/in/roberto-rosenhaim-77747a37/
 
 <!---
